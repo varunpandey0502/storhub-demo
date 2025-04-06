@@ -1,9 +1,9 @@
 import React from 'react'
-import './styles.css'
+import './globals.css'
 
 export const metadata = {
-  description: 'A blank template using Payload in a Next.js app.',
-  title: 'Payload Blank Template',
+  description: 'Storhub is a platform for storing and managing your belongings.',
+  title: 'Storhub | Storage Solutions',
 }
 
 export default async function RootLayout(props: { children: React.ReactNode }) {
